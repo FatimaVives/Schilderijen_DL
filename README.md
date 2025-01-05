@@ -22,3 +22,4 @@ De modellen die in dit project zijn getraind, kunnen worden gedownload via [deze
 ## Resultaten
 
 Het model heeft een eindnauwkeurigheid van 95,20% behaald op de testset en kan de kunstenaar van een schilderij nauwkeurig classificeren.
+
