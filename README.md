@@ -19,8 +19,6 @@ De modellen die in dit project zijn getraind, kunnen worden gedownload via [deze
 2. Open **Demo.ipynb** en upload het model.
 3. Run **Demo.ipynb** , klik op bestand_kiezen om een afbeelding van een schilderij te uploaden en de kunstenaar te identificeren.
 
-De demo maakt gebruik van het model dat in **final_best_model.keras** is opgeslagen.
-
 ## Resultaten
 
 Het model heeft een eindnauwkeurigheid van 95,20% behaald op de testset en kan de kunstenaar van een schilderij nauwkeurig classificeren.
